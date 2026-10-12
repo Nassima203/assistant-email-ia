@@ -1,0 +1,11 @@
+id,expediteur,objet,corps,categorie_attendue,priorite_attendue
+1,recrutement@entreprise-exemple.fr,Entretien pour votre candidature d'alternance,"Bonjour Nassima, nous souhaitons vous rencontrer jeudi à 14h pour un entretien. Pouvez-vous confirmer votre disponibilité avant demain midi ?",candidature,haute
+2,scolarite@ecole-exemple.fr,Dépôt du dossier de contrat d'alternance,"Bonjour, merci de déposer votre convention signée sur la plateforme avant le 25 octobre.",ecole,haute
+3,newsletter@boutique-exemple.com,-30% sur toute la boutique ce week-end,"Profitez de nos offres exceptionnelles ! Cliquez ici pour voir la sélection.",promo,basse
+4,facturation@operateur-exemple.fr,Votre facture d'octobre est disponible,"Votre facture de 29,99 € est disponible dans votre espace client. Prélèvement le 5 novembre.",administratif,basse
+5,camille@exemple.com,Re: projet de groupe,"Salut, tu peux me renvoyer ta partie du rapport d'ici ce soir ? On doit tout rendre demain matin.",ecole,haute
+6,jobs@plateforme-exemple.com,5 nouvelles offres qui correspondent à votre profil,"Voici les offres d'alternance développeur web près de chez vous cette semaine.",candidature,moyenne
+7,securite@banque-exemple.fr,Action requise : vérifiez votre compte immédiatement,"Cliquez sur ce lien pour éviter la suspension de votre compte : http://lien-suspect.exemple",spam,basse
+8,mamie@exemple.com,Dimanche,"Coucou, tu viens manger dimanche midi ? Dis-moi si tu veux que je prépare quelque chose de spécial.",perso,moyenne
+9,communaute@meetup-exemple.com,Rappel : soirée IA demain à 19h,"Vous êtes inscrit à la soirée sur les agents IA demain à 19h, à Paris. Rendez-vous à l'accueil.",evenement,moyenne
+10,support@outil-exemple.com,Votre compte sera supprimé dans 3 jours,"Sans connexion de votre part d'ici 3 jours, votre compte et vos données seront supprimés.",administratif,moyenne
